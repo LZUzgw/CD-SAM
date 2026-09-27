@@ -1,5 +1,5 @@
 # CD-SAM
-This is the official repo for the paper [Enhancing segment anything model with spatial context and textural detail for cardiac mri segmentation]([https://ieeexplore.ieee.org/document/11355979](https://www.sciencedirect.com/science/article/abs/pii/S1746809425009486)), accepted at BSPC.
+This is the official repo for the paper [Enhancing segment anything model with spatial context and textural detail for cardiac mri segmentation](https://www.sciencedirect.com/science/article/abs/pii/S1746809425009486), accepted at BSPC.
 
 ## Citing CD-SAM
 
